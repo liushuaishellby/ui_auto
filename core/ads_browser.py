@@ -50,6 +50,17 @@ class AbsManager:
         except RequestException as e:
             raise
 
+
+    def get_group_ids(self, data) -> list[str]:
+        response = requests.get(f'{self.BASE_URL}/api/v1/group/list', params=data, verify=False)
+        response.raise_for_status()
+        try:
+            json_data = response.json()
+            return [item['group_id'] for item in json_data['data']['list']]
+        except json.JSONDecodeError as e:
+            raise e
+        except KeyError as e:
+            raise e
     # def get_ads_debug_(self):
     #     info_list = requests.get(self.BASE_URLf + ':50325/api/v1/user/list')
     #     return info_list.json()['data']

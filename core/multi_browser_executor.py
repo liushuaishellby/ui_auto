@@ -41,7 +41,11 @@ class MultiBrowserExecutor:
         results = {}
         #获取所有浏览器id
         ads =  AbsManager()
+        if ADSB_CONFIG['group_name']:
+            g_id= ads.get_group_ids(ADSB_CONFIG)
+            ADSB_CONFIG['group_id'] = g_id
         user_ids =ads.get_ads_user_ids(ADSB_CONFIG)
+        print(user_ids)
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(user_ids)) as executor:
             futures = []
 

@@ -32,3 +32,28 @@
 2025-01-28 12:51:00,456 - multi_browser_executor - ERROR - 浏览器 kt35k8f : 
 与页面的连接已断开。
 版本: 4.1.0.17
+2025-01-28 13:48:51,405 - multi_browser_executor - ERROR - 浏览器 kt35k8f : 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-01-28 13:49:40,293 - multi_browser_executor - ERROR - 浏览器 kt03072 : 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=观看', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-28 13:52:37,869 - multi_browser_executor - ERROR - 浏览器 kra3v8t : 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-01-28 13:52:39,764 - multi_browser_executor - ERROR - 浏览器 kt03072 : 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=观看', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-28 13:52:40,567 - multi_browser_executor - ERROR - 浏览器 kr5afd8 任务提交失败: 
+无法找到浏览器可执行文件路径，请手动配置。
+版本: 4.1.0.17
+2025-01-28 13:52:42,031 - multi_browser_executor - ERROR - 浏览器 kra42t5 : 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-01-28 13:52:50,157 - multi_browser_executor - ERROR - 浏览器 kr5ans5 : 
+与页面的连接已断开。
+版本: 4.1.0.17
