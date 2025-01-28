@@ -1,0 +1,34 @@
+2025-01-28 10:49:05,450 - multi_browser_executor - ERROR - 浏览器 kr595h4 : 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-01-28 11:07:41,322 - multi_browser_executor - ERROR - 浏览器 kr5ai94 : 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=我已了解', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-28 11:11:22,242 - multi_browser_executor - ERROR - 浏览器 kr5ai94 : 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=观看', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-28 11:16:04,510 - multi_browser_executor - ERROR - 浏览器 kra3p06 : 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=观看', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-28 11:18:40,725 - multi_browser_executor - ERROR - 浏览器 kra3p06 : 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-01-28 11:28:13,526 - multi_browser_executor - ERROR - 浏览器 kra3v8t : 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-01-28 11:58:59,856 - multi_browser_executor - ERROR - 浏览器 kra42t5 : 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-01-28 12:04:02,002 - multi_browser_executor - ERROR - 浏览器 kt03072 : 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-01-28 12:21:07,025 - multi_browser_executor - ERROR - 浏览器 kr5ai94 : list index out of range
+2025-01-28 12:51:00,456 - multi_browser_executor - ERROR - 浏览器 kt35k8f : 
+与页面的连接已断开。
+版本: 4.1.0.17

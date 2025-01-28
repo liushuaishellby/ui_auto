@@ -1,0 +1,9 @@
+2025-01-27 19:15:49,189 - BaiduPage - INFO - 访问页面成功: https://www.baidu.com
+2025-01-27 19:15:49,271 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-27 19:15:49,524 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-27 19:16:13,939 - BaiduPage - INFO - 访问页面成功: https://www.baidu.com
+2025-01-27 19:16:14,005 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-27 19:16:14,249 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-27 19:20:11,069 - BaiduPage - INFO - 访问页面成功: https://www.baidu.com
+2025-01-27 19:20:11,148 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-27 19:20:11,388 - BaiduPage - INFO - 点击元素成功: @value=百度一下

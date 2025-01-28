@@ -1,0 +1,23 @@
+2025-01-26 17:26:58,685 - utilities - WARNING - 第1次尝试失败，1.0秒后重试
+2025-01-26 17:27:09,692 - utilities - WARNING - 第2次尝试失败，1.0秒后重试
+2025-01-26 17:27:20,713 - utilities - ERROR - 重试3次后仍然失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:54,175 - utilities - WARNING - 第1次尝试失败，1.0秒后重试
+2025-01-26 17:28:05,189 - utilities - WARNING - 第2次尝试失败，1.0秒后重试
+2025-01-26 17:28:16,206 - utilities - ERROR - 重试3次后仍然失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:30:35,624 - utilities - WARNING - 第1次尝试失败，1.0秒后重试
+2025-01-26 17:30:38,927 - utilities - WARNING - 第2次尝试失败，1.0秒后重试
+2025-01-26 17:30:42,263 - utilities - ERROR - 重试3次后仍然失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:31:25,235 - utilities - WARNING - 第1次尝试失败，1.0秒后重试
+2025-01-26 17:31:28,568 - utilities - WARNING - 第2次尝试失败，1.0秒后重试
+2025-01-26 17:31:31,909 - utilities - ERROR - 重试3次后仍然失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 22:11:21,035 - utilities - WARNING - 第1次尝试失败，1.0秒后重试
+2025-01-26 22:11:24,336 - utilities - WARNING - 第2次尝试失败，1.0秒后重试
+2025-01-26 22:11:27,667 - utilities - ERROR - 重试3次后仍然失败: 'ChromiumPage' object has no attribute 'get_scroll_height'

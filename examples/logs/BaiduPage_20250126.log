@@ -1,0 +1,123 @@
+2025-01-26 17:26:58,685 - BaiduPage - ERROR - 输入文本失败: [name="wd"], 错误: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:26:58,685 - BaiduPage - ERROR - 搜索失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:09,692 - BaiduPage - ERROR - 输入文本失败: [name="wd"], 错误: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:09,692 - BaiduPage - ERROR - 搜索失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:20,712 - BaiduPage - ERROR - 输入文本失败: [name="wd"], 错误: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:20,713 - BaiduPage - ERROR - 搜索失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '[name="wd"]', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:54,174 - BaiduPage - ERROR - 输入文本失败: @name="wd", 错误: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:27:54,175 - BaiduPage - ERROR - 搜索失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:28:05,189 - BaiduPage - ERROR - 输入文本失败: @name="wd", 错误: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:28:05,189 - BaiduPage - ERROR - 搜索失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:28:16,206 - BaiduPage - ERROR - 输入文本失败: @name="wd", 错误: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:28:16,206 - BaiduPage - ERROR - 搜索失败: 
+No element found.
+Method: ele()
+Arguments: {'locator': '@name="wd"', 'index': 1, 'timeout': 10}
+Version: 4.1.0.17
+2025-01-26 17:28:44,927 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:28:45,156 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:30:33,388 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:30:33,621 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:30:35,624 - BaiduPage - ERROR - 搜索失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:30:36,678 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:30:36,921 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:30:38,926 - BaiduPage - ERROR - 搜索失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:30:39,994 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:30:40,257 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:30:42,262 - BaiduPage - ERROR - 搜索失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:31:22,987 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:31:23,228 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:31:25,234 - BaiduPage - ERROR - 搜索失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:31:26,301 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:31:26,561 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:31:28,566 - BaiduPage - ERROR - 搜索失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:31:29,637 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:31:29,902 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 17:31:31,908 - BaiduPage - ERROR - 搜索失败: 'BaiduPage' object has no attribute 'page'
+2025-01-26 17:33:47,510 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 17:33:47,744 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 22:11:18,747 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 22:11:19,033 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 22:11:21,035 - BaiduPage - ERROR - 滚动到底部失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:21,035 - BaiduPage - ERROR - 搜索失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:22,068 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 22:11:22,330 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 22:11:24,335 - BaiduPage - ERROR - 滚动到底部失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:24,336 - BaiduPage - ERROR - 搜索失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:25,396 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 22:11:25,661 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 22:11:27,667 - BaiduPage - ERROR - 滚动到底部失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:27,667 - BaiduPage - ERROR - 搜索失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:53,325 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 22:11:53,581 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 22:11:55,585 - BaiduPage - ERROR - 滚动到底部失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:11:55,585 - BaiduPage - ERROR - 搜索失败: 'ChromiumPage' object has no attribute 'get_scroll_height'
+2025-01-26 22:12:41,237 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 22:12:41,487 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 22:51:02,025 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 22:51:02,274 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 23:05:54,009 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 23:05:54,278 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 23:08:39,496 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 23:08:39,774 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 23:11:16,497 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 23:11:16,764 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 23:12:07,727 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 23:12:07,985 - BaiduPage - INFO - 点击元素成功: @value=百度一下
+2025-01-26 23:22:33,821 - BaiduPage - ERROR - 输入文本失败: @name=wd, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': '@name=wd', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-26 23:22:33,821 - BaiduPage - ERROR - 搜索失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': '@name=wd', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-26 23:31:20,793 - BaiduPage - INFO - 访问页面成功: https://www.baidu.com
+2025-01-26 23:31:20,868 - BaiduPage - INFO - 输入文本成功: @name=wd, 文本: 天气
+2025-01-26 23:31:21,131 - BaiduPage - INFO - 点击元素成功: @value=百度一下
