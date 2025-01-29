@@ -72,14 +72,15 @@ class BrowserManager:
         """获取已存在的页面实例"""
         return self.pages.get(page_id)
     
-    def close_page(self, page_id: str):
+    def close_page(self, page):
         """关闭指定页面实例"""
-        page = self.pages.pop(page_id, None)
-        if page:
-            page.quit()
-            logger.info(f"关闭页面: {page_id}")
-    
+        # page = self.pages.pop(page_id, None)
+        # if page:
+        #     page.quit()
+        #     logger.info(f"关闭页面: {page_id}")
+        page.quit()
+        logger.info(f"关闭页面: ")
     def close_all(self):
         """关闭所有页面实例"""
         for page_id in list(self.pages.keys()):
-            self.close_page(page_id) 
+            self.close_page(page_id)

@@ -7,7 +7,7 @@ def main():
 
 
     # 创建执行器并运行任务
-    executor = MultiBrowserExecutor(max_retries=3, retry_delay=2.0)
+    executor = MultiBrowserExecutor(max_retries=3, retry_delay=2.0,max_concurrent_browsers=2)
     results = executor.execute(le_task)
 
     # 输出结果

@@ -7,14 +7,14 @@ class BasePage:
     封装常用的页面操作方法
     """
     
-    def __init__(self, tab):
+    def __init__(self, tab,width=1511,height=995):
         """
         Args:
             tab: DrissionPage的Tab对象
         """
         self.tab = tab
         self.logger = get_logger(self.__class__.__name__)
-        
+        self.tab.set.window.size(width,height) #设置窗口大小
         # 设置滚动相关配置
         # self.tab.set.scroll.smooth(on_off=False)  # 关闭平滑滚动
         # self.tab.set.scroll.wait_complete(on_off=True)  # 等待滚动完成

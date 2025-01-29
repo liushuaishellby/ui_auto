@@ -34,5 +34,6 @@ LE = {
     'rf_btn' : '回复', #回复
     'rg' :'点赞',  # 点赞
     'verify_text':'text:验证失败',
-    'success' : 'text=我已了解'
+    'success' : 'text=我已了解',
+    'verify_fail_close' : '@xmlns=http://www.w3.org/2000/svg'
 }

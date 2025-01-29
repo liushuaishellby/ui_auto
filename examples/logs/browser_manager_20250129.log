@@ -1,0 +1,70 @@
+2025-01-29 10:18:42,055 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50187
+2025-01-29 10:18:45,275 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50345
+2025-01-29 10:18:49,732 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50617
+2025-01-29 10:18:54,390 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50962
+2025-01-29 10:19:02,356 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:51323
+2025-01-29 10:19:18,180 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:51811
+2025-01-29 10:19:32,703 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52286
+2025-01-29 10:19:45,800 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52646
+2025-01-29 10:19:59,340 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:53187
+2025-01-29 10:20:53,593 - browser_manager - INFO - 关闭页面: page_127.0.0.1:50187
+2025-01-29 10:20:54,634 - browser_manager - INFO - 关闭页面: page_127.0.0.1:50345
+2025-01-29 10:20:55,572 - browser_manager - INFO - 关闭页面: page_127.0.0.1:50617
+2025-01-29 10:20:56,525 - browser_manager - INFO - 关闭页面: page_127.0.0.1:50962
+2025-01-29 10:20:57,572 - browser_manager - INFO - 关闭页面: page_127.0.0.1:51323
+2025-01-29 10:20:58,609 - browser_manager - INFO - 关闭页面: page_127.0.0.1:51811
+2025-01-29 10:20:58,929 - browser_manager - INFO - 关闭页面: page_127.0.0.1:52286
+2025-01-29 10:20:59,560 - browser_manager - INFO - 关闭页面: page_127.0.0.1:52646
+2025-01-29 10:21:00,180 - browser_manager - INFO - 关闭页面: page_127.0.0.1:53187
+2025-01-29 12:20:45,583 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:57476
+2025-01-29 12:20:49,434 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50440
+2025-01-29 12:20:54,308 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50686
+2025-01-29 12:21:00,158 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:51074
+2025-01-29 12:21:10,477 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:51445
+2025-01-29 12:21:26,927 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:51825
+2025-01-29 12:21:41,967 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52147
+2025-01-29 12:22:09,356 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52814
+2025-01-29 12:22:26,974 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:53258
+2025-01-29 13:15:55,178 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:53622
+2025-01-29 13:15:55,355 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:53601
+2025-01-29 13:17:42,864 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:55530
+2025-01-29 13:17:56,781 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:55792
+2025-01-29 13:20:28,003 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:59803
+2025-01-29 13:20:46,825 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:60405
+2025-01-29 13:23:46,739 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:65534
+2025-01-29 13:24:08,947 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:49769
+2025-01-29 13:26:21,777 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52936
+2025-01-29 17:50:21,045 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52001
+2025-01-29 17:50:21,045 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52000
+2025-01-29 17:52:58,159 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:55194
+2025-01-29 17:53:10,594 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:55677
+2025-01-29 18:09:54,369 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50172
+2025-01-29 18:09:54,634 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50171
+2025-01-29 18:11:45,834 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52068
+2025-01-29 18:11:54,432 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:52311
+2025-01-29 18:14:04,745 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:55235
+2025-01-29 18:14:13,130 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:55540
+2025-01-29 18:16:02,721 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:57195
+2025-01-29 18:18:19,510 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:58976
+2025-01-29 18:19:45,459 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:60704
+2025-01-29 18:24:40,657 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:64760
+2025-01-29 18:24:41,090 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:64773
+2025-01-29 18:26:29,713 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50054
+2025-01-29 18:26:34,017 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:50178
+2025-01-29 21:34:09,603 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:54606
+2025-01-29 21:34:09,827 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:54605
+2025-01-29 21:35:47,124 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:35:50,228 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:35:50,532 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:56009
+2025-01-29 21:35:53,596 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:56241
+2025-01-29 21:37:24,010 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:37:27,412 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:57450
+2025-01-29 21:37:34,603 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:37:37,758 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:57798
+2025-01-29 21:39:02,784 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:39:06,245 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:58850
+2025-01-29 21:39:10,819 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:39:14,274 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:59203
+2025-01-29 21:40:48,955 - browser_manager - INFO - 关闭页面: 
+2025-01-29 21:40:52,552 - browser_manager - INFO - 创建页面成功: page_127.0.0.1:60584
+2025-01-29 21:42:33,991 - browser_manager - INFO - 关闭页面: 
