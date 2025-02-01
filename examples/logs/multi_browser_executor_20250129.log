@@ -427,3 +427,79 @@
 2025-01-29 21:40:48,956 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
 2025-01-29 21:40:52,552 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
 2025-01-29 21:42:33,992 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-01-29 22:12:28,934 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-01-29 22:12:28,934 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-01-29 22:12:32,931 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-01-29 22:12:32,932 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-01-29 22:12:56,629 - multi_browser_executor - ERROR - 浏览器 kt03072 第 1 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-29 22:12:56,630 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-01-29 22:12:57,010 - multi_browser_executor - ERROR - 浏览器 kra42t5 第 1 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-29 22:12:57,010 - multi_browser_executor - INFO - 浏览器 kra42t5 等待 2.0 秒后重试...
+2025-01-29 22:16:10,822 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-01-29 22:16:10,822 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-01-29 22:16:14,561 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-01-29 22:16:14,830 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-01-29 22:16:23,341 - multi_browser_executor - ERROR - 浏览器 kra42t5 第 1 次尝试失败: 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-01-29 22:16:23,341 - multi_browser_executor - INFO - 浏览器 kra42t5 等待 2.0 秒后重试...
+2025-01-29 22:16:31,576 - multi_browser_executor - ERROR - 浏览器 kt03072 第 1 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-29 22:16:31,577 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-01-29 22:16:38,025 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-01-29 22:16:38,025 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-01-29 22:16:41,415 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-01-29 22:16:41,744 - multi_browser_executor - ERROR - 浏览器 kt03072 第 2 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-01-29 22:16:41,744 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-01-29 22:16:43,748 - multi_browser_executor - ERROR - 浏览器 kt03072 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-01-29 22:16:43,748 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-01-29 22:16:43,748 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-01-29 22:16:47,044 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-01-29 22:17:01,835 - multi_browser_executor - ERROR - 浏览器 kra3v8t 第 1 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-29 22:17:01,835 - multi_browser_executor - INFO - 浏览器 kra3v8t 等待 2.0 秒后重试...
+2025-01-29 22:17:09,560 - multi_browser_executor - ERROR - 浏览器 kra3p06 第 1 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-29 22:17:09,560 - multi_browser_executor - INFO - 浏览器 kra3p06 等待 2.0 秒后重试...
+2025-01-29 22:20:42,401 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-01-29 22:20:46,080 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-01-29 22:20:56,408 - multi_browser_executor - ERROR - 浏览器 kra3v8t 第 1 次尝试失败: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-01-29 22:20:56,408 - multi_browser_executor - INFO - 浏览器 kra3v8t 等待 2.0 秒后重试...
+2025-01-29 22:21:13,443 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-01-29 22:22:38,682 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-01-29 22:22:42,085 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-01-29 22:23:00,407 - multi_browser_executor - ERROR - 浏览器 kra3p06 第 1 次尝试失败: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-01-29 22:23:00,408 - multi_browser_executor - INFO - 浏览器 kra3p06 等待 2.0 秒后重试...
+2025-01-29 22:23:23,793 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-01-29 22:32:30,309 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-01-29 22:32:33,907 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-01-29 22:32:45,355 - multi_browser_executor - ERROR - 浏览器 kr5ans5 第 1 次尝试失败: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-01-29 22:32:45,356 - multi_browser_executor - INFO - 浏览器 kr5ans5 等待 2.0 秒后重试...
+2025-01-29 22:33:01,881 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成

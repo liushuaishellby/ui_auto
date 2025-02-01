@@ -1,0 +1,48 @@
+2025-01-31 18:37:26,686 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:37:31,166 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:37:31,166 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:37:42,990 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:37:56,011 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-31 18:37:59,551 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:38:08,208 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:38:08,208 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:38:17,568 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:38:22,048 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:38:22,048 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:38:31,379 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:38:35,838 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:38:35,838 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:38:45,251 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:38:49,723 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:38:49,724 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:38:59,470 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:39:04,142 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:39:04,143 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:39:13,998 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:39:18,504 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:39:18,504 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:39:27,461 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:39:32,279 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-01-31 18:39:32,279 - XosPage - INFO - 点击签到 成功
+2025-01-31 18:39:40,892 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:39:53,907 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-31 18:39:57,383 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:40:10,392 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-01-31 18:40:13,513 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-01-31 18:40:26,518 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17

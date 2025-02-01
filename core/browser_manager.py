@@ -78,9 +78,10 @@ class BrowserManager:
         # if page:
         #     page.quit()
         #     logger.info(f"关闭页面: {page_id}")
+        #关闭tab
+        tab_id = page.get_tab_id()
+        # 关闭所有的tab
+        page.close_tabs(tabs_or_ids=tab_id, others=True)
+
         page.quit()
         logger.info(f"关闭页面: ")
-    def close_all(self):
-        """关闭所有页面实例"""
-        for page_id in list(self.pages.keys()):
-            self.close_page(page_id)

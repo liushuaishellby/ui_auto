@@ -8,11 +8,10 @@ class LePage(BasePage):
     """ly页面页面类"""
 
     def __init__(self, page):
-        tab = page.new_tab()
-        super().__init__(tab)
+        super().__init__(page)
         self.selectors = LE
         self.visit(self.selectors['url'])
-        self.tab.wait(3)
+        page.wait(3)
         self.ref_tab()
 
     
@@ -22,16 +21,15 @@ class LePage(BasePage):
             self.wait_s(2)
             eles = self.find_elements(selector)
             if not eles:
-                self.logger.info(f"{task_name}任务未找到")
                 return True
+            if task_name == '观看':
+                if len(eles) >= 1:
+                    return False
             if task_name in '点赞回复引用':
                 if len(eles) <= 2:
-                    self.logger.info(f"{task_name}任务未找到")
                     return True
             if len(eles) < 2:
-                self.logger.info(f"{task_name}任务未找到")
                 return True
-
             return False
         except Exception as e:
             self.logger.error(f"检查任务状态失败: {str(e)}")

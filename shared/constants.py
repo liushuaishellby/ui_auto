@@ -37,3 +37,18 @@ LE = {
     'success' : 'text=我已了解',
     'verify_fail_close' : '@xmlns=http://www.w3.org/2000/svg'
 }
+
+
+OFC_CONFIG = {
+    'url': 'https://ofc.onefootball.com/s2/',
+    'let_go' : "text=Let's go",
+    'verify': 'text=Verify',
+    'verify_time': 'text:23h'
+}
+
+
+XOS_CONFIG= {
+    'url':'https://x.ink/airdrop',
+    'check_in':'text=立即签到',
+    'verify' : '今日已签到'
+}
