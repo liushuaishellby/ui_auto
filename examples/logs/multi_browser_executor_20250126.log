@@ -1,3 +1,0 @@
-2025-01-26 17:25:34,072 - multi_browser_executor - ERROR - 浏览器 chrome_1 任务提交失败: 'ChromiumOptions' object has no attribute 'set_debugger_address'
-2025-01-26 22:50:01,161 - multi_browser_executor - ERROR - 浏览器 kt35k8f 任务提交失败: 'data'
-2025-01-26 23:13:29,765 - multi_browser_executor - ERROR - 浏览器 kt35k8f 任务提交失败: 'Chromium' object has no attribute 'get'

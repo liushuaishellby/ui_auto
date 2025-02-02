@@ -1,0 +1,215 @@
+2025-02-01 14:59:35,517 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 14:59:40,017 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 14:59:40,018 - XosPage - INFO - 点击签到 成功
+2025-02-01 14:59:46,529 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 14:59:59,543 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-01 15:00:02,713 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:00:15,718 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-01 15:00:23,020 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:00:27,548 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:00:27,550 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:00:33,853 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:10:50,215 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:11:03,223 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-01 15:11:06,599 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:11:19,609 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': 'text=立即签到', 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-01 15:11:22,789 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:11:34,369 - XosPage - ERROR - 查找元素失败: text=立即签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 15:11:34,370 - XosPage - ERROR - 点击元素失败: text=立即签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 15:43:51,950 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:44:03,732 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:44:17,269 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:44:34,759 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:44:34,760 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:44:45,317 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:45:02,821 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:45:02,821 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:45:12,121 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:45:29,613 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:45:29,613 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:45:40,345 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:45:57,846 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:45:57,847 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:46:07,873 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:46:25,407 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:46:25,408 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:46:36,309 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:46:53,846 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:46:53,847 - XosPage - INFO - 点击签到 成功
+2025-02-01 15:47:04,539 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 15:47:22,033 - XosPage - INFO - 点击元素成功: text=立即签到
+2025-02-01 15:47:22,035 - XosPage - INFO - 点击签到 成功
+2025-02-01 18:56:36,911 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 18:56:49,291 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 18:59:20,331 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 18:59:32,082 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:00:06,370 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:00:11,732 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:00:23,195 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:02:29,796 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:02:38,134 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:04:01,007 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:05:25,690 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:06:56,816 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:08:30,564 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:08:39,613 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:08:51,241 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:09:03,351 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:10:06,035 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:10:14,884 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:10:23,252 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:10:34,219 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:11:42,471 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 19:11:50,984 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 20:17:37,395 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 20:17:38,186 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 20:20:20,959 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 20:20:21,322 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 20:22:27,185 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 20:22:27,281 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:01:33,760 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:01:34,183 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:01:50,100 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:01:50,275 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:02:00,835 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:02:03,852 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 21:02:05,661 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:02:15,315 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:02:17,388 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:02:26,019 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:03:46,273 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:03:46,345 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:03:59,049 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:03:59,729 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:04:10,352 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:04:12,329 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:04:22,337 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:04:25,352 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 21:04:35,807 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:04:38,822 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 21:04:56,510 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 21:06:07,397 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:07,995 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:22,422 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:22,717 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:34,220 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:37,736 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:46,218 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:50,223 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:06:53,236 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 21:07:28,406 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 21:08:05,886 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:08:07,280 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:08:16,970 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:29:38,719 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:29:39,176 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:29:49,911 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:29:52,411 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:30:00,650 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:30:03,643 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:30:13,797 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:30:17,109 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 21:30:25,065 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:30:36,259 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:30:36,475 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:30:39,276 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:30:39,490 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:31:22,576 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:22,587 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:23,369 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:31:29,292 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:31:38,691 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:39,590 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:40,387 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:44,921 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:47,936 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:31:50,050 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:31:53,069 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:31:58,629 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:32:01,648 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:32:12,461 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:32:15,480 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:32:18,703 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:32:22,860 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:32:29,585 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:32:32,599 - XosPage - ERROR - 查找元素失败: 今日已签到, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:32:34,836 - XosPage - ERROR - 访问页面失败: https://x.ink/airdrop, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-01 22:32:43,078 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:33:36,631 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:33:37,255 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:35:05,669 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:35:05,749 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:50:42,560 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:50:43,329 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:54:21,711 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:54:22,227 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:54:33,395 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:54:35,262 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:54:44,251 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:54:47,284 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:55:00,120 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:55:00,629 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:55:11,065 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:55:50,621 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:55:51,126 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:56:01,183 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:58:32,190 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:58:32,527 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:59:30,584 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop
+2025-02-01 22:59:31,228 - XosPage - INFO - 访问页面成功: https://x.ink/airdrop

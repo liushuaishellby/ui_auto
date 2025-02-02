@@ -1,0 +1,106 @@
+2025-02-02 15:45:41,091 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:45:54,108 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-02 15:45:59,671 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:46:05,747 - OfcPage - ERROR - 查找元素失败: text=Let's go, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 15:46:05,747 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 15:46:19,580 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:46:33,655 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 15:46:34,527 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:46:39,983 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:46:49,164 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 15:46:53,309 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:46:54,077 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 15:46:58,017 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 15:47:06,315 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-02 15:47:07,646 - OfcPage - ERROR - 查找元素失败: text=Let's go, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 15:47:07,646 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 15:47:09,558 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:03:50,641 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:03:50,698 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:03:55,960 - OfcPage - ERROR - 查找元素失败: text=Let's go, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 17:03:55,961 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 17:03:56,663 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-02-02 17:04:02,774 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:04:12,065 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:04:17,007 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 17:04:21,053 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:04:25,597 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:04:25,598 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:04:26,122 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 17:04:29,130 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:04:29,131 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:04:32,421 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:04:36,933 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:04:36,933 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:04:40,456 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:04:40,459 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:04:56,269 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:05:10,336 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 17:05:16,717 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:05:17,135 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:05:21,204 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:05:21,205 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:05:23,165 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-02-02 17:05:24,784 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:05:24,784 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:05:29,145 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:05:33,849 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:05:33,849 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:05:37,370 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:05:37,371 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:05:42,300 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:05:54,132 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:05:56,395 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 17:06:00,156 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-02-02 17:06:02,766 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:06:04,390 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:06:08,939 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:06:08,941 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:06:12,464 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:06:12,464 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:06:16,877 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 'bool' object has no attribute 'click'
+2025-02-02 17:06:20,763 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:06:25,259 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:06:25,260 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:06:28,759 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:06:28,762 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:06:41,204 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:06:44,795 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:06:45,742 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:06:45,742 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:06:48,299 - OfcPage - ERROR - 点击元素失败: text=Let's go, 错误: 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-02-02 17:06:49,250 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:06:49,250 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:06:54,335 - OfcPage - INFO - 访问页面成功: https://ofc.onefootball.com/s2/
+2025-02-02 17:06:59,173 - OfcPage - INFO - 点击元素成功: text=Let's go
+2025-02-02 17:06:59,173 - OfcPage - INFO - 点击lets go 成功
+2025-02-02 17:07:02,723 - OfcPage - INFO - 点击元素成功: text=Verify
+2025-02-02 17:07:02,724 - OfcPage - INFO - 点击lets go 成功

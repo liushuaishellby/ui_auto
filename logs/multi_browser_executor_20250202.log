@@ -1,0 +1,972 @@
+2025-02-02 12:15:04,138 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:15:04,138 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:15:04,141 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:15:04,141 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:15:16,260 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:15:16,532 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:15:38,737 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:15:38,737 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:15:39,683 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:15:39,683 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:15:44,692 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:15:47,282 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:16:08,738 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:16:08,738 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:16:08,802 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:16:08,803 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:16:15,571 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:16:15,985 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:16:36,730 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:16:36,730 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:16:37,964 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:16:37,964 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:16:42,498 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:16:44,877 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:17:05,812 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:17:05,812 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:17:06,073 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:17:11,465 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:17:31,167 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:20:40,114 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:20:40,115 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:20:40,116 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:20:40,117 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:20:46,448 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:20:46,450 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:20:51,854 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:20:51,854 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:20:52,375 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:20:52,376 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:20:57,334 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:20:58,795 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:21:02,323 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:21:02,323 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:21:03,669 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:21:03,669 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:21:07,584 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:21:09,440 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:21:12,394 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:21:12,394 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:21:14,412 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:21:14,412 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:21:17,621 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:21:20,242 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:21:23,207 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:21:23,208 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:21:25,182 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:21:28,585 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:21:33,448 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:26:16,047 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:26:16,047 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:26:16,049 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:26:16,049 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:26:25,799 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:26:26,048 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:26:31,193 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:26:31,193 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:26:31,694 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:26:31,694 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:26:36,535 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:26:37,886 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:26:42,822 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:26:42,822 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:26:43,003 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:26:43,003 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:26:48,886 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:26:48,888 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:26:54,242 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:26:54,242 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:26:54,460 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:26:54,460 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:26:59,452 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:27:01,179 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:27:06,088 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:27:06,088 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:27:06,208 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:27:11,387 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:27:16,228 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:31:52,091 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:31:52,091 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:31:52,092 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:31:52,092 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:31:57,902 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:31:58,005 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:32:03,273 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:32:03,273 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:32:03,953 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:32:03,954 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:32:08,573 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:32:09,917 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:32:13,597 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:32:13,597 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:32:14,879 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:32:14,879 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:32:18,810 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:32:20,502 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:32:23,645 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:32:23,645 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:32:25,568 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:32:25,569 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:32:29,013 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:32:31,404 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:32:34,506 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:32:34,506 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:32:36,501 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:32:39,854 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:32:44,659 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:37:28,097 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:37:28,098 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:37:28,099 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:37:28,099 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:37:33,989 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:37:34,451 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:37:39,236 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:37:39,236 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:37:40,227 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:37:40,227 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:37:44,435 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:37:46,301 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:37:49,343 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:37:49,344 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:37:51,209 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:37:51,209 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:37:54,623 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:37:56,698 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:37:59,543 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:37:59,543 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:38:01,862 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:38:01,862 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:38:04,811 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:38:07,507 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:38:10,719 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:38:10,719 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:38:12,411 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:38:16,254 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:38:21,166 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:43:04,127 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:43:04,127 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:43:04,128 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:43:04,128 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:43:14,257 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:43:14,259 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:43:19,976 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:43:19,976 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:43:20,169 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:43:20,169 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:43:29,412 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:43:29,412 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:43:35,032 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:43:35,032 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:43:36,991 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:43:36,991 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:43:42,317 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:43:45,005 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:43:47,154 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:43:47,154 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:43:50,007 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:43:50,007 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:43:52,467 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:43:55,692 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:43:58,701 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:43:58,701 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:44:00,718 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:44:04,227 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:44:09,075 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:48:40,147 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:48:40,147 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:48:40,149 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:48:40,149 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:48:50,271 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:48:50,275 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:48:55,506 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:48:55,506 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:48:56,287 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:48:56,287 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:49:00,884 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:49:02,662 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:49:05,743 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:49:05,743 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:49:07,638 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:49:07,638 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:49:11,163 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:49:13,344 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:49:15,979 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:49:15,979 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:49:18,475 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:49:18,475 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:49:21,358 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:49:24,249 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:49:27,554 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:49:27,554 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:49:30,422 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:49:33,114 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:49:37,978 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:54:16,079 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:54:16,080 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:54:16,082 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:54:16,082 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 12:54:26,052 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 12:54:26,258 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 12:54:31,352 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 12:54:31,352 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 12:54:31,954 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 12:54:31,954 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 12:54:40,836 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 12:54:41,253 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 12:54:46,197 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 12:54:46,197 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 12:54:46,396 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 12:54:46,396 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 12:54:52,278 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 12:54:52,460 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 12:54:57,296 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 12:54:57,297 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 12:54:57,581 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 12:54:57,582 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 12:55:02,486 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 12:55:04,230 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 12:55:09,191 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 12:55:09,191 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 12:55:09,470 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 12:55:14,553 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 12:55:19,396 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 12:59:52,040 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 12:59:52,040 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 12:59:52,041 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 12:59:52,041 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:00:01,789 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:00:02,058 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:00:07,170 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:00:07,170 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:00:07,828 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:00:07,829 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:00:12,503 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:00:14,528 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:00:19,752 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:00:19,752 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:00:19,763 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:00:19,764 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:00:25,898 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:00:25,912 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:00:31,231 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:00:31,231 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:00:31,384 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:00:31,384 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:00:37,658 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:00:38,536 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:00:43,737 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:00:43,737 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:00:43,841 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:00:52,891 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:00:57,762 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:05:28,227 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:05:28,227 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:05:28,229 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:05:28,229 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:05:38,361 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:05:38,362 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:05:43,529 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:05:43,529 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:05:44,236 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:05:44,236 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:05:53,296 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:05:53,327 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:05:58,925 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:05:58,925 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:05:58,959 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:05:58,959 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:06:04,995 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:06:04,996 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:06:10,145 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:06:10,145 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:06:10,231 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:06:10,231 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:06:16,313 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:06:16,697 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:06:22,292 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:06:22,292 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:06:22,465 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:06:27,797 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:06:32,660 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:11:04,262 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:11:04,262 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:11:04,264 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:11:04,264 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:11:13,860 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:11:14,166 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:11:18,913 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:11:18,913 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:11:20,045 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:11:20,045 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:11:24,169 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:11:25,884 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:11:29,026 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:11:29,026 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:11:30,872 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:11:30,872 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:11:34,315 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:11:36,424 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:11:39,164 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:11:39,164 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:11:41,510 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:11:41,510 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:11:44,377 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:11:47,104 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:11:50,063 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:11:50,063 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:11:51,990 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:11:55,383 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:12:00,195 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:16:40,126 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:16:40,126 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:16:40,127 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:16:40,128 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:16:49,702 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:16:50,011 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:16:54,381 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:16:54,381 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:16:55,740 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:16:55,740 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:17:03,525 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:17:03,528 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:17:08,976 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:17:08,976 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:17:10,146 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:17:10,146 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:17:14,247 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:17:16,207 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:17:19,084 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:17:19,084 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:17:21,529 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:17:21,529 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:17:24,263 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:17:27,115 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:17:29,859 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:17:29,859 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:17:32,125 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:17:35,156 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:17:39,979 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:22:16,139 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:22:16,139 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:22:16,140 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:22:16,140 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:22:26,114 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:22:26,116 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:22:31,557 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:22:31,557 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:22:32,228 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:22:32,228 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:22:37,164 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:22:38,633 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:22:42,338 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:22:42,338 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:22:43,629 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:22:43,629 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:22:47,754 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:22:49,383 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:22:52,601 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:22:52,601 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:22:54,289 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:22:54,289 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:22:58,208 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:23:00,230 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:23:04,524 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:23:04,524 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:23:05,457 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:23:09,978 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:23:14,818 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:27:52,045 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:27:52,046 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:27:52,047 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:27:52,047 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:27:58,063 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:27:58,415 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:28:03,393 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:28:03,393 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:28:03,975 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:28:03,975 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:28:12,992 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:28:13,016 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:28:18,502 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:28:18,502 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:28:18,672 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:28:18,672 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:28:24,802 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:28:24,845 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:28:29,451 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:28:29,452 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:28:30,192 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:28:30,192 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:28:34,927 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:28:36,742 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:28:41,723 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:28:41,723 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:28:42,138 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:28:47,259 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:28:52,101 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:33:28,136 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:33:28,136 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:33:28,138 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:33:28,138 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:33:38,070 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:33:38,071 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:33:43,319 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:33:43,319 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:33:44,247 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:33:44,247 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:33:53,106 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:33:53,111 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:33:57,910 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:33:57,911 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:33:58,484 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:33:58,484 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:34:03,830 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:34:07,638 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:34:08,831 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:34:08,831 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:34:12,556 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:34:12,556 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:34:14,255 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:34:18,172 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:34:20,311 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:34:20,312 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:34:23,237 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:34:25,880 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:34:30,713 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:39:04,044 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:39:04,045 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:39:04,046 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:39:04,046 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:39:13,564 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:39:13,700 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:39:18,255 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:39:18,255 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:39:19,462 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:39:19,462 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:39:28,152 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:39:28,384 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:39:33,942 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:39:33,942 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:39:34,075 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:39:34,075 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:39:39,412 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:39:43,863 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:39:44,290 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:39:44,290 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:39:48,752 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:39:48,752 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:39:49,646 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:39:54,418 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:39:55,898 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:39:55,898 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:39:59,472 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:40:01,329 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:40:06,175 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:44:40,068 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:44:40,068 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:44:40,070 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:44:40,070 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:44:46,036 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:44:46,221 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:44:51,278 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:44:51,278 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:44:51,969 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:44:51,969 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:44:56,797 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:44:57,912 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:45:01,912 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:45:01,912 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:45:03,026 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:45:03,026 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:45:07,255 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:45:08,998 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:45:12,127 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:45:12,127 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:45:13,965 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:45:13,965 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:45:17,366 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:45:19,578 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:45:23,069 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:45:23,070 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:45:24,690 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:45:28,433 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:45:32,673 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:50:16,045 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:50:16,045 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:50:16,046 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:50:16,047 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:50:27,499 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:50:27,700 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:50:33,075 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:50:33,075 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:50:33,242 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:50:33,242 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:50:39,384 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:50:39,919 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:50:43,762 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:50:43,762 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:50:44,938 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:50:44,938 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:50:49,460 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:50:51,027 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:50:54,341 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:50:54,341 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:50:56,026 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:50:56,026 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:50:59,602 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:51:01,605 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:51:05,773 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:51:05,773 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:51:07,477 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:51:11,216 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:51:16,027 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 13:55:52,100 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 13:55:52,100 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 13:55:52,101 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 13:55:52,101 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 13:55:58,545 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 13:55:58,864 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 13:56:03,947 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 13:56:03,947 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 13:56:04,202 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 13:56:04,202 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 13:56:14,207 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 13:56:14,209 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 13:56:19,364 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 13:56:19,364 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 13:56:19,684 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 13:56:19,684 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 13:56:25,406 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 13:56:28,828 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 13:56:30,396 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 13:56:30,396 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 13:56:34,631 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 13:56:34,631 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 13:56:35,794 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 13:56:40,579 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 13:56:41,431 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 13:56:41,432 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 13:56:45,476 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 13:56:47,575 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 13:56:53,126 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 14:01:28,036 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:01:28,036 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:01:28,038 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:01:28,038 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:01:37,474 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:01:37,475 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:01:42,924 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 14:01:42,925 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 14:01:43,456 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 14:01:43,456 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 14:01:52,480 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 14:01:52,650 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 14:01:57,017 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 14:01:57,017 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 14:01:57,999 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 14:01:57,999 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 14:02:03,260 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 14:02:06,464 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 14:02:08,125 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 14:02:08,125 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 14:02:11,436 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 14:02:11,437 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 14:02:13,468 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 14:02:17,153 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 14:02:19,553 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 14:02:19,553 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 14:02:22,167 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 14:02:25,150 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 14:02:30,007 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 14:07:04,112 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:07:04,112 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:07:04,114 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:07:04,114 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:07:13,745 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:07:13,745 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:07:19,041 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 14:07:19,041 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 14:07:20,224 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 14:07:20,224 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 14:07:24,619 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 14:07:26,551 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 14:07:29,483 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 14:07:29,484 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 14:07:31,563 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 14:07:31,563 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 14:07:34,898 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 14:07:37,189 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 14:07:39,700 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 14:07:39,700 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 14:07:42,224 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 14:07:42,224 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 14:07:45,021 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 14:07:48,006 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 14:07:51,270 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 14:07:51,270 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 14:07:52,985 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 14:07:56,687 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 14:08:01,490 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 14:12:40,096 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:12:40,096 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:12:40,097 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:12:40,098 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:12:50,175 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:12:50,180 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:12:55,449 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 14:12:55,449 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 14:12:55,896 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 14:12:55,896 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 14:13:04,690 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 14:13:04,767 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 14:13:09,997 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 14:13:09,997 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 14:13:10,112 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 14:13:10,112 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 14:13:16,007 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 14:13:17,587 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 14:13:21,278 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 14:13:21,278 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 14:13:22,684 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 14:13:22,684 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 14:13:26,720 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 14:13:28,782 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 14:13:33,375 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 14:13:33,375 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 14:13:33,919 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 14:13:38,920 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 14:13:43,748 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 14:18:16,209 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:18:16,210 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:18:16,211 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:18:16,211 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:18:27,091 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:18:27,743 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:18:50,173 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:18:50,173 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:18:50,174 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:18:50,174 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:18:57,868 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:18:57,875 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:24:29,743 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:24:29,743 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:24:29,744 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:24:29,745 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:24:36,826 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:24:36,842 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:28:05,740 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 14:28:05,740 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 14:28:11,590 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 14:29:07,084 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 14:29:07,084 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 14:29:12,786 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 14:36:35,046 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 14:36:35,046 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 14:36:35,048 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 14:36:35,049 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 14:36:40,708 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 14:36:40,711 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 14:38:18,020 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 14:38:18,020 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 14:38:23,552 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 14:38:27,415 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 14:38:27,415 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 14:38:32,898 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 14:40:44,889 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 14:40:44,890 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 14:40:50,474 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 14:41:57,530 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 14:41:57,530 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 14:42:02,911 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 14:47:39,503 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 14:47:39,503 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 14:47:44,843 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 14:49:58,137 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 14:49:58,137 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 14:50:03,746 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 14:52:06,069 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 14:52:06,069 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 14:52:11,662 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 14:52:43,784 - multi_browser_executor - ERROR - 浏览器 kr595h4 第 1 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 14:52:43,784 - multi_browser_executor - INFO - 浏览器 kr595h4 等待 2.0 秒后重试...
+2025-02-02 14:52:45,786 - multi_browser_executor - ERROR - 浏览器 kr595h4 第 2 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 14:52:45,787 - multi_browser_executor - INFO - 浏览器 kr595h4 等待 2.0 秒后重试...
+2025-02-02 14:52:47,792 - multi_browser_executor - ERROR - 浏览器 kr595h4 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 14:52:47,793 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 15:45:29,486 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 15:45:29,487 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 15:45:29,487 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 15:45:29,488 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 15:45:36,244 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 15:45:36,253 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 15:45:54,789 - multi_browser_executor - ERROR - 浏览器 kt03072 第 1 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-02 15:45:54,790 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-02-02 15:46:05,752 - multi_browser_executor - ERROR - 浏览器 kt03072 第 2 次尝试失败: HTTPConnectionPool(host='127.0.0.1', port=49410): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10523e550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-02 15:46:05,753 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-02-02 15:46:07,756 - multi_browser_executor - ERROR - 浏览器 kt03072 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 15:46:07,758 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 15:46:07,758 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 15:46:13,252 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 15:46:33,850 - multi_browser_executor - ERROR - 浏览器 kra3v8t 第 1 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 15:46:33,850 - multi_browser_executor - INFO - 浏览器 kra3v8t 等待 2.0 秒后重试...
+2025-02-02 15:46:49,338 - multi_browser_executor - ERROR - 浏览器 kra42t5 第 1 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 15:46:49,338 - multi_browser_executor - INFO - 浏览器 kra42t5 等待 2.0 秒后重试...
+2025-02-02 15:46:54,138 - multi_browser_executor - ERROR - 浏览器 kra3v8t 第 2 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 15:46:54,139 - multi_browser_executor - INFO - 浏览器 kra3v8t 等待 2.0 秒后重试...
+2025-02-02 15:47:06,332 - multi_browser_executor - ERROR - 浏览器 kra42t5 第 2 次尝试失败: 
+没有找到元素。
+方法: ele()
+参数: {'locator': "text=Let's go", 'index': 1, 'timeout': 10}
+版本: 4.1.0.17
+2025-02-02 15:47:06,332 - multi_browser_executor - INFO - 浏览器 kra42t5 等待 2.0 秒后重试...
+2025-02-02 15:47:07,688 - multi_browser_executor - ERROR - 浏览器 kra3v8t 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 15:47:07,693 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 15:47:07,694 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 15:54:02,379 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 15:54:02,379 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 15:54:02,380 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 15:54:02,380 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 15:54:09,293 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 15:59:54,101 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 15:59:54,101 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 15:59:54,103 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 15:59:54,103 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 16:00:00,781 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 16:00:00,786 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 16:00:09,678 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 16:00:09,678 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 16:00:09,868 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 16:00:09,868 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 16:00:20,655 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 16:00:20,669 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 16:00:29,264 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 16:00:29,264 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 16:00:29,913 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 16:00:29,913 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 16:00:34,637 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 16:00:36,823 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 16:00:42,996 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 16:00:42,996 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 16:00:44,328 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 16:00:44,328 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 16:00:48,212 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 16:00:50,343 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 16:00:55,547 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 16:00:55,547 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 16:00:57,537 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 16:01:00,884 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 16:01:06,582 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 16:19:21,094 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 16:19:21,094 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 16:19:21,096 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 16:19:21,096 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 16:19:31,432 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 16:19:31,435 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 16:19:38,535 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 16:19:38,535 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 16:19:38,546 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 16:19:38,546 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 16:19:44,884 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 16:19:45,098 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 16:19:50,533 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 16:19:50,533 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 16:19:50,707 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 16:19:50,707 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 16:19:57,220 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 16:19:58,457 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 16:20:02,040 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 16:20:02,040 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 16:20:03,930 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 16:20:03,930 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 16:20:07,512 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 16:20:09,743 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 16:20:14,347 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 16:20:14,347 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 16:20:15,027 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 16:20:20,174 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 16:20:25,201 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 16:24:21,122 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 16:24:21,123 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 16:24:21,124 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 16:24:21,124 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 16:24:28,341 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 16:24:28,370 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 16:24:34,471 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 16:24:34,471 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 16:24:34,622 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 16:24:34,622 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 16:24:40,942 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 16:24:41,328 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 16:24:46,874 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 16:24:46,874 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 16:24:47,017 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 16:24:47,017 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 16:24:53,090 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 16:24:53,387 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 16:24:58,988 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 16:24:58,988 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 16:24:59,598 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 16:24:59,598 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 16:25:04,337 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 16:25:06,718 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 16:25:10,563 - multi_browser_executor - ERROR - 浏览器 kr5ac4b 第 1 次尝试失败: HTTPConnectionPool(host='127.0.0.1', port=53050): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106fb6070>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-02 16:25:10,564 - multi_browser_executor - INFO - 浏览器 kr5ac4b 等待 2.0 秒后重试...
+2025-02-02 16:25:12,569 - multi_browser_executor - ERROR - 浏览器 kr5ac4b 第 2 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 16:25:12,570 - multi_browser_executor - INFO - 浏览器 kr5ac4b 等待 2.0 秒后重试...
+2025-02-02 16:25:14,571 - multi_browser_executor - ERROR - 浏览器 kr5ac4b 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 16:25:14,572 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 16:25:14,572 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 16:25:20,335 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 16:25:25,068 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 16:25:36,582 - multi_browser_executor - ERROR - 浏览器 kr5afd8 第 1 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 16:25:36,582 - multi_browser_executor - INFO - 浏览器 kr5afd8 等待 2.0 秒后重试...
+2025-02-02 16:25:38,584 - multi_browser_executor - ERROR - 浏览器 kr5afd8 第 2 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 16:25:38,585 - multi_browser_executor - INFO - 浏览器 kr5afd8 等待 2.0 秒后重试...
+2025-02-02 16:25:40,590 - multi_browser_executor - ERROR - 浏览器 kr5afd8 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 16:25:40,591 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 16:29:16,134 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 16:29:16,134 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 16:29:16,137 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 16:29:16,137 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 16:29:23,527 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 16:29:24,338 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 16:29:32,089 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 16:29:32,089 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 16:29:36,425 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 16:29:36,425 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 16:29:37,698 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 16:29:41,795 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 16:29:42,632 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 16:29:42,632 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 16:29:46,721 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 16:29:46,721 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 16:29:48,048 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 16:29:52,100 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 16:29:52,927 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 16:29:52,927 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 16:29:57,126 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 16:29:57,126 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 16:29:58,304 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 16:30:02,890 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 16:30:04,810 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 16:30:04,810 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 16:30:07,448 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 16:30:10,455 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 16:30:15,320 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 16:34:16,151 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 16:34:16,151 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 16:34:16,153 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 16:34:16,153 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 16:34:23,459 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 16:34:24,511 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 16:34:29,128 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 16:34:29,128 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 16:34:31,003 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 16:34:31,003 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 16:34:34,759 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 16:34:37,309 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 16:34:39,815 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 16:34:39,815 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 16:34:42,594 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 16:34:42,594 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 16:34:45,059 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 16:34:48,678 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 16:34:50,204 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 16:34:50,205 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 16:34:54,075 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 16:34:54,075 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 16:34:55,364 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 16:35:00,246 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 16:35:01,603 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 16:35:01,603 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 16:35:05,390 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 16:35:07,168 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 16:35:12,188 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成
+2025-02-02 17:03:40,095 - multi_browser_executor - INFO - Total browsers: 9
+2025-02-02 17:03:40,096 - multi_browser_executor - INFO - Max concurrent browsers: 2
+2025-02-02 17:03:40,097 - multi_browser_executor - INFO - 正在启动浏览器: kt03072
+2025-02-02 17:03:40,097 - multi_browser_executor - INFO - 正在启动浏览器: kra42t5
+2025-02-02 17:03:46,178 - multi_browser_executor - INFO - 浏览器 kra42t5 启动成功，开始执行任务
+2025-02-02 17:03:46,385 - multi_browser_executor - INFO - 浏览器 kt03072 启动成功，开始执行任务
+2025-02-02 17:03:55,964 - multi_browser_executor - ERROR - 浏览器 kt03072 第 1 次尝试失败: HTTPConnectionPool(host='127.0.0.1', port=59021): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e44340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-02 17:03:55,965 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-02-02 17:03:56,746 - multi_browser_executor - ERROR - 浏览器 kra42t5 第 1 次尝试失败: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-02-02 17:03:56,746 - multi_browser_executor - INFO - 浏览器 kra42t5 等待 2.0 秒后重试...
+2025-02-02 17:03:57,966 - multi_browser_executor - ERROR - 浏览器 kt03072 第 2 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 17:03:57,967 - multi_browser_executor - INFO - 浏览器 kt03072 等待 2.0 秒后重试...
+2025-02-02 17:03:59,969 - multi_browser_executor - ERROR - 浏览器 kt03072 第 3 次尝试失败: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-02-02 17:03:59,970 - multi_browser_executor - INFO - 正在启动浏览器: kra3v8t
+2025-02-02 17:03:59,970 - multi_browser_executor - INFO - 浏览器 kt03072 任务完成
+2025-02-02 17:04:06,540 - multi_browser_executor - INFO - 浏览器 kra3v8t 启动成功，开始执行任务
+2025-02-02 17:04:17,076 - multi_browser_executor - ERROR - 浏览器 kra42t5 第 2 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 17:04:17,076 - multi_browser_executor - INFO - 浏览器 kra42t5 等待 2.0 秒后重试...
+2025-02-02 17:04:26,287 - multi_browser_executor - ERROR - 浏览器 kra3v8t 第 1 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 17:04:26,288 - multi_browser_executor - INFO - 浏览器 kra3v8t 等待 2.0 秒后重试...
+2025-02-02 17:04:33,214 - multi_browser_executor - INFO - 正在启动浏览器: kra3p06
+2025-02-02 17:04:33,214 - multi_browser_executor - INFO - 浏览器 kra42t5 任务完成
+2025-02-02 17:04:38,715 - multi_browser_executor - INFO - 浏览器 kra3p06 启动成功，开始执行任务
+2025-02-02 17:04:44,532 - multi_browser_executor - INFO - 正在启动浏览器: kr5ans5
+2025-02-02 17:04:44,533 - multi_browser_executor - INFO - 浏览器 kra3v8t 任务完成
+2025-02-02 17:04:50,026 - multi_browser_executor - INFO - 浏览器 kr5ans5 启动成功，开始执行任务
+2025-02-02 17:05:10,524 - multi_browser_executor - ERROR - 浏览器 kr5ans5 第 1 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 17:05:10,525 - multi_browser_executor - INFO - 浏览器 kr5ans5 等待 2.0 秒后重试...
+2025-02-02 17:05:23,267 - multi_browser_executor - ERROR - 浏览器 kra3p06 第 1 次尝试失败: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-02-02 17:05:23,268 - multi_browser_executor - INFO - 浏览器 kra3p06 等待 2.0 秒后重试...
+2025-02-02 17:05:28,844 - multi_browser_executor - INFO - 正在启动浏览器: kr5ai94
+2025-02-02 17:05:28,844 - multi_browser_executor - INFO - 浏览器 kr5ans5 任务完成
+2025-02-02 17:05:34,238 - multi_browser_executor - INFO - 浏览器 kr5ai94 启动成功，开始执行任务
+2025-02-02 17:05:41,415 - multi_browser_executor - INFO - 正在启动浏览器: kr5afd8
+2025-02-02 17:05:41,415 - multi_browser_executor - INFO - 浏览器 kra3p06 任务完成
+2025-02-02 17:05:46,904 - multi_browser_executor - INFO - 浏览器 kr5afd8 启动成功，开始执行任务
+2025-02-02 17:05:56,526 - multi_browser_executor - ERROR - 浏览器 kr5ai94 第 1 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 17:05:56,528 - multi_browser_executor - INFO - 浏览器 kr5ai94 等待 2.0 秒后重试...
+2025-02-02 17:06:00,233 - multi_browser_executor - ERROR - 浏览器 kr5afd8 第 1 次尝试失败: 
+该元素没有位置及大小。
+版本: 4.1.0.17
+2025-02-02 17:06:00,234 - multi_browser_executor - INFO - 浏览器 kr5afd8 等待 2.0 秒后重试...
+2025-02-02 17:06:16,536 - multi_browser_executor - INFO - 正在启动浏览器: kr5ac4b
+2025-02-02 17:06:16,536 - multi_browser_executor - INFO - 浏览器 kr5afd8 任务完成
+2025-02-02 17:06:16,908 - multi_browser_executor - ERROR - 浏览器 kr5ai94 第 2 次尝试失败: 'bool' object has no attribute 'click'
+2025-02-02 17:06:16,908 - multi_browser_executor - INFO - 浏览器 kr5ai94 等待 2.0 秒后重试...
+2025-02-02 17:06:26,563 - multi_browser_executor - INFO - 浏览器 kr5ac4b 启动成功，开始执行任务
+2025-02-02 17:06:32,832 - multi_browser_executor - INFO - 正在启动浏览器: kr595h4
+2025-02-02 17:06:32,832 - multi_browser_executor - INFO - 浏览器 kr5ai94 任务完成
+2025-02-02 17:06:39,455 - multi_browser_executor - INFO - 浏览器 kr595h4 启动成功，开始执行任务
+2025-02-02 17:06:48,402 - multi_browser_executor - ERROR - 浏览器 kr595h4 第 1 次尝试失败: 
+元素对象已失效。可能是页面整体刷新，或js局部刷新把元素替换或去除了。
+版本: 4.1.0.17
+2025-02-02 17:06:48,404 - multi_browser_executor - INFO - 浏览器 kr595h4 等待 2.0 秒后重试...
+2025-02-02 17:06:53,380 - multi_browser_executor - INFO - 浏览器 kr5ac4b 任务完成
+2025-02-02 17:07:06,829 - multi_browser_executor - INFO - 浏览器 kr595h4 任务完成

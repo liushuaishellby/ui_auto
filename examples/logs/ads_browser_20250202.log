@@ -1,0 +1,30 @@
+2025-02-02 15:18:38,271 - ads_browser - INFO - 正在获取分组ID列表
+2025-02-02 15:18:38,490 - ads_browser - DEBUG - 获取分组列表响应: {"data":{"list":[{"group_id":"5676928","group_name":"元老组","remark":""}],"page":1,"page_size":50},"code":0,"msg":"Success"}
+2025-02-02 15:18:38,490 - ads_browser - INFO - 成功获取到 1 个分组ID
+2025-02-02 15:18:38,491 - ads_browser - INFO - 正在获取用户ID列表
+2025-02-02 15:18:38,662 - ads_browser - DEBUG - 获取用户列表响应: {"data":{"list":[],"page":1,"page_size":50},"code":0,"msg":"Success"}
+2025-02-02 15:18:38,663 - ads_browser - INFO - 成功获取到 0 个用户ID
+2025-02-02 15:18:52,835 - ads_browser - INFO - 正在获取用户ID列表
+2025-02-02 15:18:53,028 - ads_browser - DEBUG - 获取用户列表响应: {"data":{"list":[{"name":"","domain_name":"","created_time":"1737821009","ip":"208.196.100.204","ip_country":"us","password":"","fbcc_proxy_acc_id":"82","ipchecker":"","fakey":"","sys_app_cate_id":"0","group_id":"5676931","group_name":"青年组","remark":"","serial_number":"22","last_open_time":"1738480189","user_id":"kt35hkb","username":""}],"page":1,"page_size":50},"code":0,"msg":"Success"}
+2025-02-02 15:18:53,028 - ads_browser - INFO - 成功获取到 1 个用户ID
+2025-02-02 15:18:55,034 - ads_browser - INFO - 正在启动浏览器，user_id: kt35hkb
+2025-02-02 15:18:59,004 - ads_browser - DEBUG - 启动浏览器响应: {"code":0,"msg":"success","data":{"ws":{"puppeteer":"ws://127.0.0.1:52747/devtools/browser/7b8695e3-7bc6-4392-b683-37a1e5628828","selenium":"127.0.0.1:52747"},"debug_port":"52747","webdriver":"/Users/liushuai/Library/Application Support/adspower_global/cwd_global/chrome_131/chromedriver.app/Contents/MacOS/chromedriver"}}
+2025-02-02 15:18:59,005 - ads_browser - INFO - 浏览器启动成功，debug地址: 127.0.0.1:52747
+2025-02-02 15:26:23,158 - ads_browser - INFO - 正在获取用户ID列表
+2025-02-02 15:26:23,370 - ads_browser - DEBUG - 获取用户列表响应: {"data":{"list":[{"name":"","domain_name":"","created_time":"1737821121","ip":"208.196.100.192","ip_country":"us","password":"","fbcc_proxy_acc_id":"70","ipchecker":"","fakey":"","sys_app_cate_id":"0","group_id":"5676931","group_name":"青年组","remark":"","serial_number":"24","last_open_time":"1738480178","user_id":"kt35k89","username":""}],"page":1,"page_size":50},"code":0,"msg":"Success"}
+2025-02-02 15:26:23,370 - ads_browser - INFO - 成功获取到 1 个用户ID
+2025-02-02 15:26:25,390 - ads_browser - INFO - 正在启动浏览器，user_id: kt35k89
+2025-02-02 15:26:29,215 - ads_browser - DEBUG - 启动浏览器响应: {"code":0,"msg":"success","data":{"ws":{"puppeteer":"ws://127.0.0.1:56444/devtools/browser/12105171-6a2a-428b-be52-db1ca6ede997","selenium":"127.0.0.1:56444"},"debug_port":"56444","webdriver":"/Users/liushuai/Library/Application Support/adspower_global/cwd_global/chrome_129/chromedriver.app/Contents/MacOS/chromedriver"}}
+2025-02-02 15:26:29,215 - ads_browser - INFO - 浏览器启动成功，debug地址: 127.0.0.1:56444
+2025-02-02 15:31:14,752 - ads_browser - INFO - 正在获取用户ID列表
+2025-02-02 15:31:14,992 - ads_browser - DEBUG - 获取用户列表响应: {"data":{"list":[{"name":"","domain_name":"","created_time":"1737821121","ip":"208.196.100.197","ip_country":"us","password":"","fbcc_proxy_acc_id":"75","ipchecker":"","fakey":"","sys_app_cate_id":"0","group_id":"5676931","group_name":"青年组","remark":"","serial_number":"26","last_open_time":"1738480168","user_id":"kt35k8b","username":""}],"page":1,"page_size":50},"code":0,"msg":"Success"}
+2025-02-02 15:31:14,993 - ads_browser - INFO - 成功获取到 1 个用户ID
+2025-02-02 15:31:17,001 - ads_browser - INFO - 正在启动浏览器，user_id: kt35k8b
+2025-02-02 15:31:20,611 - ads_browser - DEBUG - 启动浏览器响应: {"code":0,"msg":"success","data":{"ws":{"puppeteer":"ws://127.0.0.1:59883/devtools/browser/0c116cbc-fa16-472e-9a9c-3e1400eeb7be","selenium":"127.0.0.1:59883"},"debug_port":"59883","webdriver":"/Users/liushuai/Library/Application Support/adspower_global/cwd_global/chrome_129/chromedriver.app/Contents/MacOS/chromedriver"}}
+2025-02-02 15:31:20,612 - ads_browser - INFO - 浏览器启动成功，debug地址: 127.0.0.1:59883
+2025-02-02 15:33:51,661 - ads_browser - INFO - 正在获取用户ID列表
+2025-02-02 15:33:51,857 - ads_browser - DEBUG - 获取用户列表响应: {"data":{"list":[{"name":"","domain_name":"","created_time":"1737821121","ip":"208.196.100.197","ip_country":"us","password":"","fbcc_proxy_acc_id":"75","ipchecker":"","fakey":"","sys_app_cate_id":"0","group_id":"5676931","group_name":"青年组","remark":"","serial_number":"26","last_open_time":"1738481480","user_id":"kt35k8b","username":""}],"page":1,"page_size":50},"code":0,"msg":"Success"}
+2025-02-02 15:33:51,858 - ads_browser - INFO - 成功获取到 1 个用户ID
+2025-02-02 15:33:53,864 - ads_browser - INFO - 正在启动浏览器，user_id: kt35k8b
+2025-02-02 15:33:57,855 - ads_browser - DEBUG - 启动浏览器响应: {"code":0,"msg":"success","data":{"ws":{"puppeteer":"ws://127.0.0.1:61329/devtools/browser/475ca137-1f73-4f98-839c-6d054abd8611","selenium":"127.0.0.1:61329"},"debug_port":"61329","webdriver":"/Users/liushuai/Library/Application Support/adspower_global/cwd_global/chrome_129/chromedriver.app/Contents/MacOS/chromedriver"}}
+2025-02-02 15:33:57,855 - ads_browser - INFO - 浏览器启动成功，debug地址: 127.0.0.1:61329
